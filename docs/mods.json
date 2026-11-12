@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.12.4",
+  "packVersion": "2026.11.12.5",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": null,
@@ -34,11 +34,11 @@
     {
       "id": "kabunushiclient",
       "name": "株主クライアントMOD",
-      "fileName": "KabunushiClient-3.0.2.jar",
-      "version": "3.0.2",
-      "url": "https://github.com/Msya-kabunushi/KabunushiClient-Public/releases/download/v3.0.2/KabunushiClient-3.0.2.jar",
-      "sha256": "4cd50e4d0fb0aa8e866550f27fed229b56cd1c6dd6f5f313bd2cb6304bd2d3ed",
-      "size": 137062,
+      "fileName": "KabunushiClient-3.0.3.jar",
+      "version": "3.0.3",
+      "url": "https://github.com/Msya-kabunushi/KabunushiClient-Public/releases/download/v3.0.3/KabunushiClient-3.0.3.jar",
+      "sha256": "f61a84de9919b8cac862b5ff0425b67b9ddb72b4472c3e6a09fb0305841879d6",
+      "size": 139010,
       "required": true,
       "description": "",
       "requires": [
