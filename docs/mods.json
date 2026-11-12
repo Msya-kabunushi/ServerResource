@@ -1,16 +1,150 @@
 {
-  "version": "1.0.0",
+  "format": 2,
+  "packVersion": "2026.11.12",
   "minecraft": "1.20.4",
-  "forge": "49.2.2",
+  "fabricLoader": "0.16.10",
+  "launcher": null,
   "mods": [
     {
-      "name": "Optifine",
-      "fileName": "OptiFine_1.20.4_HD_U_I7.jar",
-      "version": "5.1.0",
-      "modId": "optifine",
-      "required": true,
-      "url": "https://optifine.net/downloadx?f=OptiFine_1.20.4_HD_U_I7.jar&x=bbed7b652be6efb6c571bee5874dcf0a",
-      "description": "Optifineだよ"
+      "id": "distanthorizons",
+      "name": "Distant Horizons",
+      "fileName": "DistantHorizons-fabric-3.3.4-kabu.11-1.20.4.jar",
+      "version": "3.3.4-kabu.11",
+      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/DistantHorizons-fabric-3.3.4-kabu.11-1.20.4.jar",
+      "sha256": "98527abe7ecb5c22c78c3d4af10f771d2d2421afaccf7b41a3aa6d0436a8096b",
+      "size": 27191416,
+      "required": true
+    },
+    {
+      "id": "kabunushiambient",
+      "name": "Kabunushi Ambient",
+      "fileName": "KabunushiAmbient-0.12.0.jar",
+      "version": "0.12.0",
+      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/KabunushiAmbient-0.12.0.jar",
+      "sha256": "2600e23fc07cb6c38d8f7c56dc89108f17671abbe029c483eb46bf687cadf3bd",
+      "size": 2043040,
+      "required": true
+    },
+    {
+      "id": "kabunushiclient",
+      "name": "株主クライアントMOD",
+      "fileName": "KabunushiClient-3.0.2.jar",
+      "version": "3.0.2",
+      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/KabunushiClient-3.0.2.jar",
+      "sha256": "4cd50e4d0fb0aa8e866550f27fed229b56cd1c6dd6f5f313bd2cb6304bd2d3ed",
+      "size": 137062,
+      "required": true
+    },
+    {
+      "id": "kabunushiphone",
+      "name": "Kabunushi Phone",
+      "fileName": "KabunushiPhone-0.33.0.jar",
+      "version": "0.33.0",
+      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/KabunushiPhone-0.33.0.jar",
+      "sha256": "c386185a90c014c0d38c1820aeeb25eb78fee8bcfa3290e2b9ca8c8e77ff17c5",
+      "size": 309992,
+      "required": true
+    },
+    {
+      "id": "svcautomute",
+      "name": "SVC-addon_AutoMute",
+      "fileName": "SVC-addon_AutoMute-1.0.0.jar",
+      "version": "1.0.0",
+      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/SVC-addon_AutoMute-1.0.0.jar",
+      "sha256": "5e1852b6d814c57d0273e9dc30a160981c173ab1687067c7f5a9c201f05875ab",
+      "size": 8425,
+      "required": true
+    },
+    {
+      "id": "cloth-config",
+      "name": "Cloth Config v13",
+      "fileName": "cloth-config-13.0.138-fabric.jar",
+      "version": "13.0.138",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2deYQULk/cloth-config-13.0.138-fabric.jar",
+      "sha256": "a4b0dc2b7f7822e7da6dfdff5f12ebf6435d73b8514250401e8b9405d6c1f56a",
+      "size": 1154870,
+      "required": true
+    },
+    {
+      "id": "fabric-api",
+      "name": "Fabric API",
+      "fileName": "fabric-api-0.97.3+1.20.4.jar",
+      "version": "0.97.3+1.20.4",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BPX6fK06/fabric-api-0.97.3%2B1.20.4.jar",
+      "sha256": "5c11c93b21e0fbcd83dd11c6059479143f3d422bceac4153c3e55806ba9371f1",
+      "size": 2187523,
+      "required": true
+    },
+    {
+      "id": "indium",
+      "name": "Indium",
+      "fileName": "indium-1.0.31+mc1.20.4.jar",
+      "version": "1.0.31+mc1.20.4",
+      "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/VlLxDisa/indium-1.0.31%2Bmc1.20.4.jar",
+      "sha256": "a6acf309f91886db6c66c1a8fce7937745053926fa114fe12cb3fdf174dfb57d",
+      "size": 105350,
+      "required": true
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "fileName": "iris-1.7.5-kabu.4+mc1.20.4.jar",
+      "version": "1.7.5-kabu.4+mc1.20.4",
+      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/iris-1.7.5-kabu.4%2Bmc1.20.4.jar",
+      "sha256": "e64ba55bfebaf957361af321db0a9470828612cc3b02a088e7b1a8f1641ca7f1",
+      "size": 2734415,
+      "required": true
+    },
+    {
+      "id": "lambdynlights",
+      "name": "LambDynamicLights",
+      "fileName": "lambdynamiclights-2.3.4+1.20.4.jar",
+      "version": "2.3.4+1.20.4",
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/mrQ8ZiyU/lambdynamiclights-2.3.4%2B1.20.4.jar",
+      "sha256": "7ba725b453dcbca16896f5552872bfc7d485a772c400f09cb5b2fc9034daa0ce",
+      "size": 568669,
+      "required": true
+    },
+    {
+      "id": "modmenu",
+      "name": "Mod Menu",
+      "fileName": "modmenu-9.2.0.jar",
+      "version": "9.2.0",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/FawTQg29/modmenu-9.2.0.jar",
+      "sha256": "2579f6d00f8adbfabf40d9ca562c815313af651869f4db3eaa0f011223e26385",
+      "size": 963019,
+      "required": true
+    },
+    {
+      "id": "sodium",
+      "name": "Sodium",
+      "fileName": "sodium-fabric-0.5.8mc1.20.4.jar",
+      "version": "0.5.8+mc1.20.4",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/4GyXKCLd/sodium-fabric-0.5.8%2Bmc1.20.4.jar",
+      "sha256": "3c363ec0122157f65e55a8edf6545a60955091387cd0e94b3ecdcd64a93284f7",
+      "size": 949085,
+      "required": true
+    },
+    {
+      "id": "voicechat",
+      "name": "Simple Voice Chat",
+      "fileName": "voicechat-fabric-1.20.4-2.5.22.jar",
+      "version": "1.20.4-2.5.22",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VRNP2Gm6/voicechat-fabric-1.20.4-2.5.22.jar",
+      "sha256": "edf599b7573e5f1801e2359c3ae02efcebf3cc151baae59f0f7a7d8ac39dca10",
+      "size": 8147474,
+      "required": true
     }
-  ]
+  ],
+  "configs": [],
+  "options": {
+    "joinedFirstServer": "true",
+    "lang": "ja_jp",
+    "onboardAccessibility": "false",
+    "renderDistance": "12",
+    "simulationDistance": "8",
+    "skipMultiplayerWarning": "true",
+    "soundCategory_music": "0.3",
+    "tutorialStep": "none"
+  }
 }
