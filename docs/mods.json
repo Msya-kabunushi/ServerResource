@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.13.10",
+  "packVersion": "2026.11.13.11",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": {
@@ -14,11 +14,11 @@
     {
       "id": "distanthorizons",
       "name": "Distant Horizons",
-      "fileName": "DistantHorizons-fabric-3.3.4-kabu.12-1.20.4.jar",
-      "version": "3.3.4-kabu.12",
-      "url": "https://github.com/Msya-kabunushi/distant-horizons/releases/download/v3.3.4-kabu.12/DistantHorizons-fabric-3.3.4-kabu.12-1.20.4.jar",
-      "sha256": "95f91acc669f1daea1a5bac54305b6459e36cf9e96954904ee313699e42abc46",
-      "size": 27191661,
+      "fileName": "DistantHorizons-fabric-3.3.4-kabu.13-1.20.4.jar",
+      "version": "3.3.4-kabu.13",
+      "url": "https://github.com/Msya-kabunushi/distant-horizons/releases/download/v3.3.4-kabu.13/DistantHorizons-fabric-3.3.4-kabu.13-1.20.4.jar",
+      "sha256": "bf0957c2d2a29abcec9eaba294eeff51e58f3207d160a10286f1c8777957ab02",
+      "size": 27192148,
       "required": true,
       "description": "",
       "requires": []
