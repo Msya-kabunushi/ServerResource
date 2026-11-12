@@ -1,14 +1,14 @@
 {
   "format": 2,
-  "packVersion": "2026.11.13.5",
+  "packVersion": "2026.11.13.6",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": {
     "minVersion": "1.2.0",
     "download": "https://github.com/Msya-kabunushi/KabunushiLauncher-Public/releases/latest",
-    "latest": "1.2.0",
-    "url": "https://github.com/Msya-kabunushi/KabunushiLauncher-Public/releases/download/v1.2.0/KabunushiLauncher.exe",
-    "sha256": "383ae293314920aea452e58fc856f0e898673084410be00c9e201c09f449b96d"
+    "latest": "1.2.1",
+    "url": "https://github.com/Msya-kabunushi/KabunushiLauncher-Public/releases/download/v1.2.1/KabunushiLauncher.exe",
+    "sha256": "aae8bed33b56d4540acb7e1ffdf017307f19e12172c9e4d17971be7a36c4b392"
   },
   "mods": [
     {
