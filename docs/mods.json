@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.12",
+  "packVersion": "2026.11.12.2",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": null,
@@ -10,7 +10,7 @@
       "name": "Distant Horizons",
       "fileName": "DistantHorizons-fabric-3.3.4-kabu.11-1.20.4.jar",
       "version": "3.3.4-kabu.11",
-      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/DistantHorizons-fabric-3.3.4-kabu.11-1.20.4.jar",
+      "url": "https://github.com/Msya-kabunushi/distant-horizons/releases/download/v3.3.4-kabu.11/DistantHorizons-fabric-3.3.4-kabu.11-1.20.4.jar",
       "sha256": "98527abe7ecb5c22c78c3d4af10f771d2d2421afaccf7b41a3aa6d0436a8096b",
       "size": 27191416,
       "required": true
@@ -20,7 +20,7 @@
       "name": "Kabunushi Ambient",
       "fileName": "KabunushiAmbient-0.12.0.jar",
       "version": "0.12.0",
-      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/KabunushiAmbient-0.12.0.jar",
+      "url": "https://github.com/Msya-kabunushi/KabunushiAmbient-Public/releases/download/v0.12.0/KabunushiAmbient-0.12.0.jar",
       "sha256": "2600e23fc07cb6c38d8f7c56dc89108f17671abbe029c483eb46bf687cadf3bd",
       "size": 2043040,
       "required": true
@@ -30,7 +30,7 @@
       "name": "株主クライアントMOD",
       "fileName": "KabunushiClient-3.0.2.jar",
       "version": "3.0.2",
-      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/KabunushiClient-3.0.2.jar",
+      "url": "https://github.com/Msya-kabunushi/KabunushiClient-Public/releases/download/v3.0.2/KabunushiClient-3.0.2.jar",
       "sha256": "4cd50e4d0fb0aa8e866550f27fed229b56cd1c6dd6f5f313bd2cb6304bd2d3ed",
       "size": 137062,
       "required": true
@@ -40,7 +40,7 @@
       "name": "Kabunushi Phone",
       "fileName": "KabunushiPhone-0.33.0.jar",
       "version": "0.33.0",
-      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/KabunushiPhone-0.33.0.jar",
+      "url": "https://github.com/Msya-kabunushi/KabunushiPhone-Public/releases/download/v0.33.0/KabunushiPhone-0.33.0.jar",
       "sha256": "c386185a90c014c0d38c1820aeeb25eb78fee8bcfa3290e2b9ca8c8e77ff17c5",
       "size": 309992,
       "required": true
@@ -50,7 +50,7 @@
       "name": "SVC-addon_AutoMute",
       "fileName": "SVC-addon_AutoMute-1.0.0.jar",
       "version": "1.0.0",
-      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/SVC-addon_AutoMute-1.0.0.jar",
+      "url": "https://github.com/Msya-kabunushi/SVC-addon_AutoMute-Public/releases/download/v1.0.0/SVC-addon_AutoMute-1.0.0.jar",
       "sha256": "5e1852b6d814c57d0273e9dc30a160981c173ab1687067c7f5a9c201f05875ab",
       "size": 8425,
       "required": true
@@ -90,7 +90,7 @@
       "name": "Iris",
       "fileName": "iris-1.7.5-kabu.4+mc1.20.4.jar",
       "version": "1.7.5-kabu.4+mc1.20.4",
-      "url": "https://github.com/Msya-kabunushi/ServerResource/releases/download/mods/iris-1.7.5-kabu.4%2Bmc1.20.4.jar",
+      "url": "https://github.com/Msya-kabunushi/iris/releases/download/v1.7.5-kabu.4/iris-1.7.5-kabu.4%2Bmc1.20.4.jar",
       "sha256": "e64ba55bfebaf957361af321db0a9470828612cc3b02a088e7b1a8f1641ca7f1",
       "size": 2734415,
       "required": true
