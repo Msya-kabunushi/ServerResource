@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.13.3",
+  "packVersion": "2026.11.13.4",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": null,
@@ -48,11 +48,11 @@
     {
       "id": "kabunushiphone",
       "name": "Kabunushi Phone",
-      "fileName": "KabunushiPhone-0.33.0.jar",
-      "version": "0.33.0",
-      "url": "https://github.com/Msya-kabunushi/KabunushiPhone-Public/releases/download/v0.33.0/KabunushiPhone-0.33.0.jar",
-      "sha256": "c386185a90c014c0d38c1820aeeb25eb78fee8bcfa3290e2b9ca8c8e77ff17c5",
-      "size": 309992,
+      "fileName": "KabunushiPhone-0.34.0.jar",
+      "version": "0.34.0",
+      "url": "https://github.com/Msya-kabunushi/KabunushiPhone-Public/releases/download/v0.34.0/KabunushiPhone-0.34.0.jar",
+      "sha256": "5cdc093a3408d09274be30cadcc523ed101addf290ca6a8cccb1770430266810",
+      "size": 310074,
       "required": true,
       "description": "",
       "requires": [
