@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.12.3",
+  "packVersion": "2026.11.12.4",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": null,
@@ -197,7 +197,8 @@
     "renderDistance": "12",
     "simulationDistance": "8",
     "skipMultiplayerWarning": "true",
-    "soundCategory_music": "0.3",
+    "soundCategory_ambient": "0.5",
+    "soundCategory_music": "0.1",
     "tutorialStep": "none"
   }
 }
