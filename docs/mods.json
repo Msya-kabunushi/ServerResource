@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.12.5",
+  "packVersion": "2026.11.12.6",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": null,
@@ -62,11 +62,11 @@
     {
       "id": "svcautomute",
       "name": "SVC-addon_AutoMute",
-      "fileName": "SVC-addon_AutoMute-1.0.0.jar",
-      "version": "1.0.0",
-      "url": "https://github.com/Msya-kabunushi/SVC-addon_AutoMute-Public/releases/download/v1.0.0/SVC-addon_AutoMute-1.0.0.jar",
-      "sha256": "5e1852b6d814c57d0273e9dc30a160981c173ab1687067c7f5a9c201f05875ab",
-      "size": 8425,
+      "fileName": "SVC-addon_AutoMute-1.1.0.jar",
+      "version": "1.1.0",
+      "url": "https://github.com/Msya-kabunushi/SVC-addon_AutoMute-Public/releases/download/v1.1.0/SVC-addon_AutoMute-1.1.0.jar",
+      "sha256": "7932345fe6e06ee99e204114624e3492a09e2d8beb42a4dcfff9af77c9defe6f",
+      "size": 11192,
       "required": true,
       "description": "",
       "requires": [
