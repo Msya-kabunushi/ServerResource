@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.12.2",
+  "packVersion": "2026.11.12.3",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": null,
@@ -13,7 +13,9 @@
       "url": "https://github.com/Msya-kabunushi/distant-horizons/releases/download/v3.3.4-kabu.11/DistantHorizons-fabric-3.3.4-kabu.11-1.20.4.jar",
       "sha256": "98527abe7ecb5c22c78c3d4af10f771d2d2421afaccf7b41a3aa6d0436a8096b",
       "size": 27191416,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": []
     },
     {
       "id": "kabunushiambient",
@@ -23,7 +25,11 @@
       "url": "https://github.com/Msya-kabunushi/KabunushiAmbient-Public/releases/download/v0.12.0/KabunushiAmbient-0.12.0.jar",
       "sha256": "2600e23fc07cb6c38d8f7c56dc89108f17671abbe029c483eb46bf687cadf3bd",
       "size": 2043040,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": [
+        "fabric-api"
+      ]
     },
     {
       "id": "kabunushiclient",
@@ -33,7 +39,11 @@
       "url": "https://github.com/Msya-kabunushi/KabunushiClient-Public/releases/download/v3.0.2/KabunushiClient-3.0.2.jar",
       "sha256": "4cd50e4d0fb0aa8e866550f27fed229b56cd1c6dd6f5f313bd2cb6304bd2d3ed",
       "size": 137062,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": [
+        "fabric-api"
+      ]
     },
     {
       "id": "kabunushiphone",
@@ -43,7 +53,11 @@
       "url": "https://github.com/Msya-kabunushi/KabunushiPhone-Public/releases/download/v0.33.0/KabunushiPhone-0.33.0.jar",
       "sha256": "c386185a90c014c0d38c1820aeeb25eb78fee8bcfa3290e2b9ca8c8e77ff17c5",
       "size": 309992,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": [
+        "fabric-api"
+      ]
     },
     {
       "id": "svcautomute",
@@ -53,7 +67,12 @@
       "url": "https://github.com/Msya-kabunushi/SVC-addon_AutoMute-Public/releases/download/v1.0.0/SVC-addon_AutoMute-1.0.0.jar",
       "sha256": "5e1852b6d814c57d0273e9dc30a160981c173ab1687067c7f5a9c201f05875ab",
       "size": 8425,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": [
+        "fabric-api",
+        "voicechat"
+      ]
     },
     {
       "id": "cloth-config",
@@ -63,7 +82,21 @@
       "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2deYQULk/cloth-config-13.0.138-fabric.jar",
       "sha256": "a4b0dc2b7f7822e7da6dfdff5f12ebf6435d73b8514250401e8b9405d6c1f56a",
       "size": 1154870,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": []
+    },
+    {
+      "id": "dynamic_fps",
+      "name": "Dynamic FPS",
+      "fileName": "dynamic-fps-3.11.4+minecraft-1.20.2-fabric.jar",
+      "version": "3.11.4",
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/TBg9M5dN/dynamic-fps-3.11.4%2Bminecraft-1.20.2-fabric.jar",
+      "sha256": "41345042f105548183d06f96238004ae0b790323ff9a0a88eb250fa12a5131da",
+      "size": 223297,
+      "required": false,
+      "description": "ゲームの画面を見ていないとき（ほかのウィンドウを使っている・最小化している）に FPS を下げて、PC の負担と電気を減らします",
+      "requires": []
     },
     {
       "id": "fabric-api",
@@ -73,7 +106,9 @@
       "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BPX6fK06/fabric-api-0.97.3%2B1.20.4.jar",
       "sha256": "5c11c93b21e0fbcd83dd11c6059479143f3d422bceac4153c3e55806ba9371f1",
       "size": 2187523,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": []
     },
     {
       "id": "indium",
@@ -83,7 +118,11 @@
       "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/VlLxDisa/indium-1.0.31%2Bmc1.20.4.jar",
       "sha256": "a6acf309f91886db6c66c1a8fce7937745053926fa114fe12cb3fdf174dfb57d",
       "size": 105350,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": [
+        "sodium"
+      ]
     },
     {
       "id": "iris",
@@ -93,7 +132,11 @@
       "url": "https://github.com/Msya-kabunushi/iris/releases/download/v1.7.5-kabu.4/iris-1.7.5-kabu.4%2Bmc1.20.4.jar",
       "sha256": "e64ba55bfebaf957361af321db0a9470828612cc3b02a088e7b1a8f1641ca7f1",
       "size": 2734415,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": [
+        "sodium"
+      ]
     },
     {
       "id": "lambdynlights",
@@ -103,7 +146,11 @@
       "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/mrQ8ZiyU/lambdynamiclights-2.3.4%2B1.20.4.jar",
       "sha256": "7ba725b453dcbca16896f5552872bfc7d485a772c400f09cb5b2fc9034daa0ce",
       "size": 568669,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": [
+        "fabric-api"
+      ]
     },
     {
       "id": "modmenu",
@@ -113,7 +160,9 @@
       "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/FawTQg29/modmenu-9.2.0.jar",
       "sha256": "2579f6d00f8adbfabf40d9ca562c815313af651869f4db3eaa0f011223e26385",
       "size": 963019,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": []
     },
     {
       "id": "sodium",
@@ -123,7 +172,9 @@
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/4GyXKCLd/sodium-fabric-0.5.8%2Bmc1.20.4.jar",
       "sha256": "3c363ec0122157f65e55a8edf6545a60955091387cd0e94b3ecdcd64a93284f7",
       "size": 949085,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": []
     },
     {
       "id": "voicechat",
@@ -133,7 +184,9 @@
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VRNP2Gm6/voicechat-fabric-1.20.4-2.5.22.jar",
       "sha256": "edf599b7573e5f1801e2359c3ae02efcebf3cc151baae59f0f7a7d8ac39dca10",
       "size": 8147474,
-      "required": true
+      "required": true,
+      "description": "",
+      "requires": []
     }
   ],
   "configs": [],
