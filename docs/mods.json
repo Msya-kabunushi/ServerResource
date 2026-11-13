@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.13.11",
+  "packVersion": "2026.11.13.12",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": {
@@ -14,11 +14,11 @@
     {
       "id": "distanthorizons",
       "name": "Distant Horizons",
-      "fileName": "DistantHorizons-fabric-3.3.4-kabu.13-1.20.4.jar",
-      "version": "3.3.4-kabu.13",
-      "url": "https://github.com/Msya-kabunushi/distant-horizons/releases/download/v3.3.4-kabu.13/DistantHorizons-fabric-3.3.4-kabu.13-1.20.4.jar",
-      "sha256": "bf0957c2d2a29abcec9eaba294eeff51e58f3207d160a10286f1c8777957ab02",
-      "size": 27192148,
+      "fileName": "DistantHorizons-fabric-3.3.4-kabu.15-1.20.4.jar",
+      "version": "3.3.4-kabu.15",
+      "url": "https://github.com/Msya-kabunushi/distant-horizons/releases/download/v3.3.4-kabu.15/DistantHorizons-fabric-3.3.4-kabu.15-1.20.4.jar",
+      "sha256": "0e452c8a2f5c603302d1fffd01c0168206c23ad83b6fbf0a2c0357475f27562c",
+      "size": 27193052,
       "required": true,
       "description": "",
       "requires": []
@@ -40,11 +40,11 @@
     {
       "id": "kabunushiclient",
       "name": "株主クライアントMOD",
-      "fileName": "KabunushiClient-3.0.6.jar",
-      "version": "3.0.6",
-      "url": "https://github.com/Msya-kabunushi/KabunushiClient-Public/releases/download/v3.0.6/KabunushiClient-3.0.6.jar",
-      "sha256": "1e277b4e531aa1d2797ae2295839a3488ab4946c552b2bfb93b04678dd75b742",
-      "size": 143282,
+      "fileName": "KabunushiClient-3.0.8.jar",
+      "version": "3.0.8",
+      "url": "https://github.com/Msya-kabunushi/KabunushiClient-Public/releases/download/v3.0.8/KabunushiClient-3.0.8.jar",
+      "sha256": "633d1b353cfc4b944eef575593b6163378ac932b87cc76958736a41421a22044",
+      "size": 145039,
       "required": true,
       "description": "",
       "requires": [
@@ -54,11 +54,11 @@
     {
       "id": "kabunushiphone",
       "name": "Kabunushi Phone",
-      "fileName": "KabunushiPhone-0.34.0.jar",
-      "version": "0.34.0",
-      "url": "https://github.com/Msya-kabunushi/KabunushiPhone-Public/releases/download/v0.34.0/KabunushiPhone-0.34.0.jar",
-      "sha256": "5cdc093a3408d09274be30cadcc523ed101addf290ca6a8cccb1770430266810",
-      "size": 310074,
+      "fileName": "KabunushiPhone-0.35.0.jar",
+      "version": "0.35.0",
+      "url": "https://github.com/Msya-kabunushi/KabunushiPhone-Public/releases/download/v0.35.0/KabunushiPhone-0.35.0.jar",
+      "sha256": "9f0b826c77f6c51616aef0c6208fff12c39ac15b61ac43c5de03b42d307ff090",
+      "size": 312782,
       "required": true,
       "description": "",
       "requires": [
@@ -68,11 +68,11 @@
     {
       "id": "svcautomute",
       "name": "SVC-addon_AutoMute",
-      "fileName": "SVC-addon_AutoMute-1.1.0.jar",
-      "version": "1.1.0",
-      "url": "https://github.com/Msya-kabunushi/SVC-addon_AutoMute-Public/releases/download/v1.1.0/SVC-addon_AutoMute-1.1.0.jar",
-      "sha256": "7932345fe6e06ee99e204114624e3492a09e2d8beb42a4dcfff9af77c9defe6f",
-      "size": 11192,
+      "fileName": "SVC-addon_AutoMute-1.2.0.jar",
+      "version": "1.2.0",
+      "url": "https://github.com/Msya-kabunushi/SVC-addon_AutoMute-Public/releases/download/v1.2.0/SVC-addon_AutoMute-1.2.0.jar",
+      "sha256": "bc77ef265ee1314efdd46d192d2311e142b1a2b145db60fb84ca3182674d2f7d",
+      "size": 12076,
       "required": true,
       "description": "",
       "requires": [
