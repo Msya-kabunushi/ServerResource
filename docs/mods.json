@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.15.4",
+  "packVersion": "2026.11.15.5",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": {
@@ -26,11 +26,11 @@
     {
       "id": "kabunushiambient",
       "name": "Kabunushi Ambient",
-      "fileName": "KabunushiAmbient-0.19.2.jar",
-      "version": "0.19.2",
-      "url": "https://github.com/Msya-kabunushi/KabunushiAmbient-Public/releases/download/v0.19.2/KabunushiAmbient-0.19.2.jar",
-      "sha256": "8fc93f794e33fe870b1e2f3240d11b217fbd3419cac0d3d08e2a1d6e80a4493f",
-      "size": 2085167,
+      "fileName": "KabunushiAmbient-0.19.3.jar",
+      "version": "0.19.3",
+      "url": "https://github.com/Msya-kabunushi/KabunushiAmbient-Public/releases/download/v0.19.3/KabunushiAmbient-0.19.3.jar",
+      "sha256": "bda9212b20ca6bbd42222d9fac478ea8bd5d18154407d740ef02f0a31f57d5f3",
+      "size": 2085186,
       "required": true,
       "description": "",
       "requires": [
