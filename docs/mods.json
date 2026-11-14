@@ -1,14 +1,14 @@
 {
   "format": 2,
-  "packVersion": "2026.11.14.2",
+  "packVersion": "2026.11.14.3",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": {
     "minVersion": "1.2.0",
     "download": "https://github.com/Msya-kabunushi/KabunushiLauncher-Public/releases/latest",
-    "latest": "1.3.4",
-    "url": "https://github.com/Msya-kabunushi/KabunushiLauncher-Public/releases/download/v1.3.4/KabunushiLauncher.exe",
-    "sha256": "7da1a535eff091056a6167e54e8b4e1c66b5b6ef70003088565cd8050f331a0d"
+    "latest": "1.3.5",
+    "url": "https://github.com/Msya-kabunushi/KabunushiLauncher-Public/releases/download/v1.3.5/KabunushiLauncher.exe",
+    "sha256": "80d42e013334422e91b75ba72782b1f8c9152edced6dabd58a133d40e56ec7c3"
   },
   "mods": [
     {
@@ -206,5 +206,10 @@
     "soundCategory_ambient": "0.5",
     "soundCategory_music": "0.1",
     "tutorialStep": "none"
+  },
+  "properties": {
+    "config/voicechat/voicechat-client.properties": {
+      "output_buffer_size": "8"
+    }
   }
 }
