@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.14.3",
+  "packVersion": "2026.11.15.1",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": {
@@ -14,11 +14,11 @@
     {
       "id": "distanthorizons",
       "name": "Distant Horizons",
-      "fileName": "DistantHorizons-fabric-3.3.4-kabu.15-1.20.4.jar",
-      "version": "3.3.4-kabu.15",
-      "url": "https://github.com/Msya-kabunushi/distant-horizons/releases/download/v3.3.4-kabu.15/DistantHorizons-fabric-3.3.4-kabu.15-1.20.4.jar",
-      "sha256": "0e452c8a2f5c603302d1fffd01c0168206c23ad83b6fbf0a2c0357475f27562c",
-      "size": 27193052,
+      "fileName": "DistantHorizons-fabric-3.3.4-kabu.17-1.20.4.jar",
+      "version": "3.3.4-kabu.17",
+      "url": "https://github.com/Msya-kabunushi/distant-horizons/releases/download/v3.3.4-kabu.17/DistantHorizons-fabric-3.3.4-kabu.17-1.20.4.jar",
+      "sha256": "622f4d91aaf6f2e152bddff3b0a265a044229cf13b590235bc2b4f133f0c76b8",
+      "size": 27195439,
       "required": true,
       "description": "",
       "requires": []
@@ -26,11 +26,11 @@
     {
       "id": "kabunushiambient",
       "name": "Kabunushi Ambient",
-      "fileName": "KabunushiAmbient-0.12.3.jar",
-      "version": "0.12.3",
-      "url": "https://github.com/Msya-kabunushi/KabunushiAmbient-Public/releases/download/v0.12.3/KabunushiAmbient-0.12.3.jar",
-      "sha256": "c3c1e33b39659de20b90af2f18ad6bbccee116f24f4160c6c0fd78d99206021d",
-      "size": 2043063,
+      "fileName": "KabunushiAmbient-0.19.2.jar",
+      "version": "0.19.2",
+      "url": "https://github.com/Msya-kabunushi/KabunushiAmbient-Public/releases/download/v0.19.2/KabunushiAmbient-0.19.2.jar",
+      "sha256": "8fc93f794e33fe870b1e2f3240d11b217fbd3419cac0d3d08e2a1d6e80a4493f",
+      "size": 2085167,
       "required": true,
       "description": "",
       "requires": [
@@ -40,11 +40,11 @@
     {
       "id": "kabunushiclient",
       "name": "株主クライアントMOD",
-      "fileName": "KabunushiClient-3.0.9.jar",
-      "version": "3.0.9",
-      "url": "https://github.com/Msya-kabunushi/KabunushiClient-Public/releases/download/v3.0.9/KabunushiClient-3.0.9.jar",
-      "sha256": "b4a319ded8855ce193ee8752a39bb7c371b5fc233d67b7c92442b6ef90ac3193",
-      "size": 148652,
+      "fileName": "KabunushiClient-3.1.0.jar",
+      "version": "3.1.0",
+      "url": "https://github.com/Msya-kabunushi/KabunushiClient-Public/releases/download/v3.1.0/KabunushiClient-3.1.0.jar",
+      "sha256": "af3d514124ee731405045886068c63f2fb6bd8a2a80e156db4b799927ae21af7",
+      "size": 12234313,
       "required": true,
       "description": "",
       "requires": [
