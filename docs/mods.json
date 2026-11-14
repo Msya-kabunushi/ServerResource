@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "packVersion": "2026.11.15.5",
+  "packVersion": "2026.11.15.6",
   "minecraft": "1.20.4",
   "fabricLoader": "0.16.10",
   "launcher": {
@@ -180,6 +180,18 @@
       "size": 949085,
       "required": true,
       "description": "",
+      "requires": []
+    },
+    {
+      "id": "truewindow",
+      "name": "True Window",
+      "fileName": "truewindow1.0.2_1.19-1.21.1_fabric.jar",
+      "version": "1.0.2",
+      "url": "https://cdn.modrinth.com/data/AfB7upFS/versions/FtOrEfZQ/truewindow1.0.2_1.19-1.21.1_fabric.jar",
+      "sha256": "70dcb1ac68b637f1e7136ba7a761a3694a6d7b1afea4e3e240c91c58d94999e7",
+      "size": 122162,
+      "required": false,
+      "description": "全画面を枠なしのウィンドウにして、ほかのウィンドウとの切り替えを速くします。録画・配信ソフトでも画面を取り込みやすくなります",
       "requires": []
     },
     {
